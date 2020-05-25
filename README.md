@@ -16,3 +16,5 @@ To take it a step further, the project shall use the Smart Document Understandin
 
 
 Node-red dashboard link after deploying:https://node-red-tdhen.eu-gb.mybluemix.net/ui/#!/0?socketid=FbMWaCTlk5EznFatAAAA
+
+Youtube link:https://youtu.be/SSHkE8pv5xM
